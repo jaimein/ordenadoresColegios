@@ -8,6 +8,7 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title>Ordenadores Colegios</title>
+        <link media="all" href="css/style.css" rel="stylesheet" type="text/css"></link>
         <link href="css/formcss.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
